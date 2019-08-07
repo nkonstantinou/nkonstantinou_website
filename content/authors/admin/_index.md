@@ -69,7 +69,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-- Visitors
 ---
 
 Nikos' research interests focus on the neurobiological mechanisms of attention, perception and working memory in healthy and clinical populations (stroke, brain injury, dementia, depression, anxiety). He employs behavioural experimental methods together with neuro-imaging using MRI and non-invasive brain stimulation (TMS, tDCS) techniques.
