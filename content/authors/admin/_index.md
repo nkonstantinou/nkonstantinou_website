@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Nikos Konstantinou
 
 # Username (this should match the folder name)
 authors:
@@ -14,16 +14,17 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Cyprus University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Attention
+- Working Memory
+- Neuroimaging
+- Brain Stimulation (TMS/tDCS)
 
 education:
   courses:
