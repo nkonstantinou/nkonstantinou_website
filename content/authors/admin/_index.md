@@ -73,6 +73,3 @@ user_groups:
 ---
 
 Nikos' research interests focus on the neurobiological mechanisms of attention, perception and working memory in healthy and clinical populations (stroke, brain injury, dementia, depression, anxiety). He employs behavioural experimental methods together with neuro-imaging using MRI and non-invasive brain stimulation (TMS, tDCS) techniques.
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
