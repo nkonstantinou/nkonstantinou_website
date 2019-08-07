@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = 'ocean'
+color_theme = "mr_robot"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -28,7 +28,7 @@ logo = ""
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
 highlight_languages = ["b"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
@@ -59,7 +59,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "nikos.konstantinou@cut.ac.cy"
-phone = "+357 25002294"
+phone = "00357 25002294"
 address = "Vragadinou 15, Limassol, 3041, Cyprus"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
