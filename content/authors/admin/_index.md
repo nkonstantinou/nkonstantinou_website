@@ -23,20 +23,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Attention
 - Working Memory
+- Perception
 - Neuroimaging
 - Brain Stimulation (TMS/tDCS)
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Cognitive Neuroscience
+    institution: University College London
+    year: 2011
+  - course: MSc in Cognitive/Developmental/Educational Psychology
+    institution: University of Cyprus
+    year: 2007
+  - course: BA in Psychology
+    institution: Louisiana State University
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -71,6 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nikos' research interests focus on the neurobiological mechanisms of attention, perception and working memory in healthy and clinical populations (stroke, brain injury, dementia, depression, anxiety). He employs behavioural experimental methods together with neuro-imaging using MRI and non-invasive brain stimulation (TMS, tDCS) techniques.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
