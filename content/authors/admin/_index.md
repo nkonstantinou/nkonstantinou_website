@@ -24,7 +24,7 @@ interests:
 - Attention
 - Working Memory
 - Perception
-- Neuroimaging
+- Neuroimaging (MRI)
 - Brain Stimulation (TMS/tDCS)
 
 education:
@@ -71,4 +71,4 @@ user_groups:
 - Researchers
 ---
 
-Nikos' research interests focus on the neurobiological mechanisms of attention, perception and working memory in healthy and clinical populations (stroke, brain injury, dementia, depression, anxiety). He employs behavioural experimental methods together with neuro-imaging using MRI and non-invasive brain stimulation (TMS, tDCS) techniques.
+We study the attention, perception and working memory in healthy people and patients with stroke, brain injury, dementia, depression, and anxiety. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
