@@ -47,4 +47,4 @@ subtitle = "## We study human cognition&shy; using behavioural experimental meth
  css_class = ""
 +++
 
-{{< figure library="true" src="CUT_Logo_English.jpg" title="CUT" lightbox="true" >}}
+{{< figure library="true" src="CUT_Logo_English.jpg" title="" lightbox="true" >}}
