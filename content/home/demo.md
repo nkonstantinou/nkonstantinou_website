@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "**Demos**"
-subtitle = ""
+title = "**Cognitine Neuroscience Lab**"
+subtitle = "Studying Human Cognition"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
