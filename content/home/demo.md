@@ -37,7 +37,7 @@ subtitle = "## We study human cognition&shy; using behavioural experimental meth
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "40px", "20px", "0"]
+  padding = ["100px", "-100px", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
