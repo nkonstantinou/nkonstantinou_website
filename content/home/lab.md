@@ -37,7 +37,7 @@ subtitle = "## We study human cognition&shy; using behavioural experimental meth
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "400px", "20px", "400px"]
+  padding = ["50px", "0", "0", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -60,3 +60,5 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 
 Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
 {{% /alert %}}
+
+{{< figure library="true" src="CUT_Logo_English.jpg" title="CUT" lightbox="true" >}}
