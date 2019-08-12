@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Konstantinou JEPHPP 2013"
+title: "Dissociable roles of different types of working memory load in visual detection."
 authors: [Konstantinou N, Lavie N]
-date: 2013-08-1T16:58:53+03:00
+date: 2013-08-01
 doi: "10.1037/a0033037"
 
 # Schedule page publish date (NOT publication's date).
