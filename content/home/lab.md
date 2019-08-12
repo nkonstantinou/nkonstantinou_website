@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Cognitine Neuroscience Lab at Cyprus University of Technology"
-subtitle = ""
+title = "*Cognitine Neuroscience Lab*"
+subtitle = "Studying human cognition"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
