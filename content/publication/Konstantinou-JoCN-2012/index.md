@@ -3,7 +3,7 @@
 
 title: "Visual short-term memory load reduces retinotopic cortex response to contrast."
 authors: [Konstantinou N, Bahrami B, Rees G, Lavie N]
-date: 2012-11
+date: 2012-11-01
 doi: "10.1162/jocn_a_00279"
 
 # Schedule page publish date (NOT publication's date).
