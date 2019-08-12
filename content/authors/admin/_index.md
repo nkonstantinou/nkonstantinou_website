@@ -71,4 +71,4 @@ user_groups:
 - Researchers
 ---
 
-We study the attention, perception and working memory in healthy people and patients with stroke, brain injury, dementia, depression, and anxiety. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
+We study attention, perception and working memory in healthy people and patients with stroke, brain injury, dementia, depression, and anxiety. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
