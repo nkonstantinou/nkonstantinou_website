@@ -33,7 +33,7 @@ subtitle = ""
   #  exclude_future = false
     
 [design]
-columns = "1"
+columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
