@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "# Cognitine Neuroscience Lab"
@@ -37,7 +37,7 @@ subtitle = "## We study human cognition&shy; using behavioural experimental meth
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "-100px", "20px", "0"]
+  padding = ["100px", "400px", "20px", "400px"]
 
 [advanced]
  # Custom CSS. 
