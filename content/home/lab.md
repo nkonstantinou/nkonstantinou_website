@@ -1,36 +1,19 @@
 +++
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
-title = "**Cognitine Neuroscience Lab**"
-subtitle = "Studying human cognition"
+title = "# Cognitine Neuroscience Lab"
+subtitle = "## We study human cognition&shy; using behavioural experimental methods, neuroimaging (MRI) and&shy; non-invasive brain stimulation (TMS)"
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  # page_type = "talk"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  # count = 5
-  
-  # Choose how many pages you would like to offset by
-  # offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  # order = "desc"
-
-  # Filter posts by a taxonomy term.
-  #[content.filters]
-  #  tag = ""
-  #  category = ""
-  #  publication_type = ""
-  #  exclude_featured = false
-  #  exclude_past = false
-  #  exclude_future = false
-    
 [design]
-columns = "2"
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -46,12 +29,16 @@ columns = "2"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "Limassol.jpg"  # Name of image in `static/img/`.
+  image = "Limassol2.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
+  text_color_light = true
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["100px", "400px", "20px", "400px"]
+
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -59,3 +46,17 @@ columns = "2"
  # CSS class.
  css_class = ""
 +++
+
+Welcome to the **personal demo** of Academic. Other demos available include:
+
+- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+
+**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+
+**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+
+{{% alert note %}}
+This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+
+Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+{{% /alert %}}
