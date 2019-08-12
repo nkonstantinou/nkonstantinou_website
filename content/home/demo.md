@@ -47,9 +47,9 @@ subtitle = "" #" ## We study human cognition&shy; using behavioural experimental
  css_class = ""
 +++
 
-## We study human cognition&shy; using behavioural experimental methods, neuroimaging (MRI) and&shy; non-invasive brain stimulation (TMS)
+# ## We study human cognition&shy; using behavioural experimental methods, neuroimaging (MRI) and&shy; non-invasive brain stimulation (TMS)
 
-#Welcome to the **personal demo** of Academic. Other demos available include:
+Welcome to the **personal demo** of Academic. Other demos available include:
 
 - [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
 
