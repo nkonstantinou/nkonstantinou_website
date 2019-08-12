@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "# Cognitine Neuroscience Lab"
-subtitle = "" #" ## We study human cognition&shy; using behavioural experimental methods, neuroimaging (MRI) and&shy; non-invasive brain stimulation (TMS)"
+subtitle = "## We study human cognition&shy; using behavioural experimental methods, neuroimaging (MRI) and&shy; non-invasive brain stimulation (TMS)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,8 +46,6 @@ subtitle = "" #" ## We study human cognition&shy; using behavioural experimental
  # CSS class.
  css_class = ""
 +++
-
-# ## We study human cognition&shy; using behavioural experimental methods, neuroimaging (MRI) and&shy; non-invasive brain stimulation (TMS)
 
 Welcome to the **personal demo** of Academic. Other demos available include:
 
