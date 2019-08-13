@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cut.ac.cy/faculties/hsc/reh/staff/Διδακτικό+και+Ερευνητικό+Προσωπικό+/nikoskonstantinou/?languageId=1"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include attention, working memory, and perception.
 
 interests:
 - Attention
