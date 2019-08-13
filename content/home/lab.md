@@ -47,4 +47,4 @@ subtitle = "We study human cognition using behavioural experiments, neuroimaging
  css_class = ""
 +++
 
-{{< figure library="true" src="BACS_brain4.png" title="" lightbox="true" >}}
+{{< figure library="true" src="BACS_brain4_small.png" title="" numbered="true" lightbox="true" >}}
