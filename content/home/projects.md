@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "Research"
-subtitle = "We study cognition in `healthy`, `neurological`, and `psychiatric` populations"
+subtitle = "We study cognitive function in `healthy`, `neurological`, and `psychiatric` populations"
 
 [content]
   # Page type to display. E.g. project.
