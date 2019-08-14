@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -74,17 +74,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-**_**
-
-**Visual Short-Term Memory**
-
-**Stroke - ASPIRE**
-
-**Spatial Navigation - SPADE**
-
-**Conduct Disorder - GENAMAT**
-
-**Social Anxiety**
-
-**Traumatic Brain Injury**
