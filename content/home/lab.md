@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Brain and Cognitive Science `(BaCS)` laboratory"
+title = "## **Brain and Cognitive Science `(BaCS)` lab**"
 subtitle = "We study `human cognition` using `behavioural experiments`, `neuroimaging` and `brain stimulation`. We are housed at the `Rehabilitation Clinic` of the Department of Rehabilitation Sciences at the Cyprus University of Technology"
 
 [design]
