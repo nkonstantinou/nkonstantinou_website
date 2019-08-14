@@ -13,8 +13,8 @@ subtitle = ""
 user_groups = ["Post Docs",
                "PhD students",
                "Master's students",
-               "Administration",
-               "Collaborators"]
+               "Collaborators",
+               "Administration"]
 
 [design.background]
   # Background image.
