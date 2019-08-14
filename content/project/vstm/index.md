@@ -1,6 +1,6 @@
 ---
 title: Visual Short-Term Memory (VSTM)
-summary: Investigating `capacity limits` of VSTM and interaction with `attention` and `perception`.
+summary: Investigating `capacity limits` of VSTM and interactions with `attention` and `perception`.
 tags: ["VSTM", "Cognitive"]
 date: "2019-08-14T00:00:00Z"
 
@@ -29,5 +29,5 @@ image:
 # slides: ""
 ---
 
-`Visual short-term memory (VSTM)` **maintains visual information** in mind for short periods of time (up to approximately 30 seconds). This process is thought to be important for `linking perception with higher cognitive functions`, such as planning our future actions. For example, when playing a sports game line soccer, we need to maintain information in VSTM, such as the position of each player on the court, before we decide our next move. However, as it so often evidenced in sports, we often fail to correctly and accurately maintain information in VSTM or when we do, this affects our ability to focus attention or accurately perceive other incoming information. 
-Our research explores `failures of VSTM` as well as interactions between VSTM and other cognitive processes such as `attention` and `perception`. 
+`Visual short-term memory (VSTM)` maintains visual information in mind for short periods of time (up to approximately 30 seconds). This process is thought to be important for `linking perception with higher cognitive functions`, such as planning our future actions. For example, when playing a sports game line soccer, we need to maintain information in VSTM, such as the position of each player on the court, before we decide our next move. However, as it so often evidenced in sports, we often fail to correctly and accurately maintain information in VSTM or when we do, this affects our ability to focus attention or accurately perceive other incoming information. 
+Our research explores `failures of VSTM` as well as interactions between VSTM and other cognitive processes such as `attention` and `perception` using `behavioural experiments`, `neuroimaging (fMRI, VBM)`, and `brain stimulation (TMS)`.
