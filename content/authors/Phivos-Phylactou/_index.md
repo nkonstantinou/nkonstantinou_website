@@ -70,4 +70,4 @@ user_groups:
 - PhD students
 ---
 
-I am interested in attention, perception and working memory in healthy people and patients with stroke, brain injury, dementia, depression, and anxiety. I employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
+My background in psychology made me curious about the neuroscientific basis of cognitive processes. Therefore, I am keen on investigating healthy individuals to discover basic neuroscientific evidence about memory and perception, with the use of non-invasive brain stimulation techniques, brain imaging, and behavioural experiments.
