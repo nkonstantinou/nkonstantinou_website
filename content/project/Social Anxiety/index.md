@@ -1,8 +1,8 @@
 ---
-title: Visual Short-Term Memory (VSTM)
-summary: Investigating `capacity limits` of VSTM and interactions with `attention` and `perception`.
-tags: ["VSTM", "Cognitive"]
-date: "2019-08-14T00:00:00Z"
+title: Social Anxiety
+summary: The role of `attention` in `social anxiety`.
+tags: ["Psychiatric", "Cognitive"]
+date: "2019-08-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,5 +29,4 @@ image:
 # slides: ""
 ---
 
-`Visual short-term memory (VSTM)` maintains visual information in mind for short periods of time (up to approximately 30 seconds). This process is thought to be important for `linking perception with higher cognitive functions`, such as planning our future actions. For example, when playing a sports game like soccer, we need to maintain information in VSTM, such as the position of each player on the court, before we decide our next move. However, as it so often evidenced in sports games, we often fail to correctly and accurately maintain information in VSTM or when we do, this affects our ability to focus attention or accurately perceive other incoming information. 
-Our research explores `failures of VSTM` as well as interactions between VSTM and other cognitive processes such as `attention` and `perception` using `behavioural experiments`, `neuroimaging (fMRI, VBM)`, and `brain stimulation (TMS)`.
+Social anxiety involves the persistent fear of one or more social situations in which the person may be evaluated, criticized and rejected. `Attention` deployment processes have been implicated in the aetiology and maintenance of social anxiety, though the specific role of attention in this condition is not yet entirely clear and continues to be a topic of vigorous investigation. This project examines whether social stimuli and especially `emotional faces` produce `attention bias` effects among socially anxious individuals in comparison to non-social stimuli, and whether `threatening faces` produce greater attention bias effects compared to neutral faces, depending on the `processing load` of cognitive tasks executed in parallel.
