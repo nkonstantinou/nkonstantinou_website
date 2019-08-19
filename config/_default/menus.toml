@@ -5,33 +5,39 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#lab"
   weight = 40
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#projects"
   weight = 50
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "PI"
+  url = "#about"
   weight = 60
+
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 70
+
+[[main]]
+  name = "News"
+  url = "#posts"
+  weight = 80
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 70
+  weight = 90
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 100
   
- [[main]]
-  name = "People"
-  url = "#people"
-  weight = 110
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
