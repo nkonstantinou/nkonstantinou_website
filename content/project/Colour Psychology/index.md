@@ -2,7 +2,7 @@
 title: Colour Psychology
 summary: Which `emotions` do you associate with `colours`?
 tags: ["Cognitive"]
-date: "2019-08-10T00:00:00Z"
+date: "2019-08-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
