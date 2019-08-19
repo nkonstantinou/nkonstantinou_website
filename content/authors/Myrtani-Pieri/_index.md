@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "She is currently an Assistant Professor at the University of Nicosia in Human Physiology. Dr Pieri’s research work focuses on Gastrointestinal track physiology and, in particular, the role of specific ingested micromolecules in tumorigenesis."
+bio: "She is currently an Assistant Professor at the University of Nicosia in Human Physiology"
 
 interests:
 - Gastrointestinal Track physiology, nutrient transport, dietary microRNAs, Colorectal cancer
@@ -65,6 +65,10 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Collaborators
+
+project:
+- ASPIRE
+  SPADE
 ---
 
 Dr Myrtani Pieri holds a PhD in Molecular Biology and Genetics from the University of Oxford, UK. She also holds a Science Entrepreneurship diploma from Said Business School, University of Oxford.
