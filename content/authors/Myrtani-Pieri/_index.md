@@ -66,9 +66,6 @@ email: ""
 user_groups:
 - Collaborators
 
-project:
-- ASPIRE
-  SPADE
 ---
 
 Dr Myrtani Pieri holds a PhD in Molecular Biology and Genetics from the University of Oxford, UK. She also holds a Science Entrepreneurship diploma from Said Business School, University of Oxford.
