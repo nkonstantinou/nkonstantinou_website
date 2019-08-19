@@ -9,6 +9,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+project:
+- vstm
+
 # Role/position
 role: Professor of Psychology and Brain Sciences
 
@@ -65,15 +68,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Collaborators
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-project:
-- [content/project/vstm/index.md]
-
 ---
 
 Creator of `Load Theory of attention and cognitive control`, one of the most highly cited contemporary theories of information processing in cognitive science. Load Theory offers a new approach concerning the nature of information processing that reconciles the apparently contradicting views in this debate regarding the issue's of capacity limits versus automaticity of processing. In Load Theory, perceptual information processing has limited capacity but processing proceeds automatically on all information within its capacity.
