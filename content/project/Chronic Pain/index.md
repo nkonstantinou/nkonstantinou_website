@@ -2,7 +2,7 @@
 title: Chronic Pain
 summary: Investigating the effects of `ACT` on `psychological flexibility` and associated `brain anatomy and function` in `chronic pain` patients.
 tags: ["Psychiatric"]
-date: "2019-08-11T00:00:00Z"
+date: "2019-08-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
