@@ -2,7 +2,7 @@
 title: Spatial Navigation (SPADE)
 summary: Investigating the effects of `dancing experience` on `spatial updating`.
 tags: ["Cognitive"]
-date: "2019-08-12T00:00:00Z"
+date: "2019-08-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
