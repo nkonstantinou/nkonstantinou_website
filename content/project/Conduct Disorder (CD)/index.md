@@ -2,7 +2,7 @@
 title: Conduct Disorder (CD)
 summary: CD `subtypes`, `attention deficits`, and effectiveness of new `therapeutic protocols`.
 tags: ["Cognitive", "Psychiatric"]
-date: "2019-08-12T00:00:00Z"
+date: "2019-08-14T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
