@@ -2,7 +2,7 @@
 title: Social Anxiety
 summary: The role of `attention` in `social anxiety`.
 tags: ["Psychiatric", "Cognitive"]
-date: "2019-08-12T00:00:00Z"
+date: "2019-08-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
