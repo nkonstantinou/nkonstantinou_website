@@ -2,7 +2,7 @@
 title: Visual Short-Term Memory (VSTM)
 summary: Investigating `capacity limits` of VSTM and interactions with `attention` and `perception`.
 tags: ["VSTM", "Cognitive"]
-date: "2019-08-14T00:00:00Z"
+date: "2019-08-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
