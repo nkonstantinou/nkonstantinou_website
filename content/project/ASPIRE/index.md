@@ -3,6 +3,8 @@ title: Aphasia Rehabilitation (ASPIRE)
 summary: Investigating the efficacy of `TMS` in `aphasia rehabilitation`.
 tags: ["Neurological"]
 date: "2019-08-18T00:00:00Z"
+authors:
+- admin
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
