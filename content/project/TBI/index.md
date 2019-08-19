@@ -2,7 +2,7 @@
 title: Traumatic Brain Injury (TBI)
 summary: Associations between `cognitive deficits` and `brain measures` in `TBI patients`.
 tags: ["Neurological"]
-date: "2019-08-11T00:00:00Z"
+date: "2019-08-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
