@@ -22,7 +22,7 @@ bio: "She is currently an Assistant Professor at the University of Nicosia in Hu
 
 interests:
 
-- Human anatomy and physiology
+- Human Anatomy and Physiology
 
 # education:
 #  courses:
@@ -71,7 +71,7 @@ projects:
 - ASPIRE
 ---
 
-Dr Myrtani Pieri holds a PhD in Molecular Biology and Genetics from the University of Oxford, UK. She also holds a Science Entrepreneurship diploma from Said Business School, University of Oxford.
+Dr Myrtani Pieri holds a PhD in Human Anatomy and Physiology from the University of Oxford, UK. She also holds a Science Entrepreneurship diploma from Said Business School, University of Oxford.
 
 She is currently an Assistant Professor at the University of Nicosia in Human Physiology. Dr Pieri’s research work focuses on Gastrointestinal track physiology and, in particular, the role of specific ingested micromolecules in tumorigenesis. In 2016 Dr Pieri won the competitive UNIVERSITAS Foundation Fund as Principle Investigator in order to study the effect of microRNAs in Colorectal Cancer. In 2017, Dr Pieri was awarded as part of a European network of 12 partners, a grant totalling EUR 449,900 by Erasmus+, the EU programme for education, training, youth and sport with the acronym “SUSTAIN”. SUSTAIN aims to engage pupils and their families in research projects – what is known as citizen science – on bird migration and water management. The 12 partners will develop e-learning modules on ‘sustainable landscapes’.
 
