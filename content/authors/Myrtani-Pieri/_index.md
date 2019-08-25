@@ -21,7 +21,8 @@ organizations:
 bio: "She is currently an Assistant Professor at the University of Nicosia in Human Physiology"
 
 interests:
-- Gastrointestinal Track physiology, nutrient transport, dietary microRNAs, Colorectal cancer
+
+- Human anatomy and physiology
 
 # education:
 #  courses:
