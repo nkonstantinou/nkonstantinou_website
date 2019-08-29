@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "## **Brain and Cognitive Science `(BaCS)` lab**"
-subtitle = "We study `human cognition` using `behavioural experiments`, `neuroimaging` and `brain stimulation`. We are housed at the `Rehabilitation Clinic` of the Department of Rehabilitation Sciences at the Cyprus University of Technology"
+subtitle = "We are housed at the `Rehabilitation Clinic` of the Department of Rehabilitation Sciences at the Cyprus University of Technology, Limassol, Cyprus"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
