@@ -4,7 +4,7 @@ name: Marios Avraamides
 
 # Username (this should match the folder name)
 authors:
-- Marios Avraamides
+- Marios-Avraamides
 
 # Is this the primary user of the site?
 superuser: false
