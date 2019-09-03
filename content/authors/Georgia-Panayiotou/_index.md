@@ -25,7 +25,7 @@ organizations:
 bio: "Current Appointment: Professor of Clinical Psychology at the Department of Psychology, University of Cyprus. She directs the Clinical Psychology and Psychophysiology Lab and she is a founding member of the Center for Applied Neuroscience. She is a licensed clinical psychologist in Cyprus. As of May 2016 she is the Chair of the Department of Psychology."
 
 interests:
-- Psychophysiology of Emotion and Cognition, Emotional and Cognitive processes in psychopathology, Anxiety and Affective Disorders, Emotional processes in antisocial behaviors
+- Psychophysiology of Emotion and Cognition, Emotional and Cognitive processes in psychopathology, Anxiety and Affective Disorders
 
 # education:
 #  courses:
