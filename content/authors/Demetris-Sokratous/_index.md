@@ -69,6 +69,9 @@ user_groups:
 - PhD students
 ---
 
+Dimitris Sokratous
+===================
+
 Dimitris holds a BSc in Physiotherapy from the Charles University of Prague
 and an MSc in Brain and Cognitive Science from the Cyprus University of Technology (CUT).
 He also holds a BSc in Physical Education and Sports Science from the National and
