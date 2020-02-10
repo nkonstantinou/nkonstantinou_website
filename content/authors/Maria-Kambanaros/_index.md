@@ -21,7 +21,7 @@ organizations:
 bio: "She is currently an Associate Professor of Speech Pathology at the Cyprus University of Technology"
 
 interests:
-- Language impairments in multilingual individuals, Aphasia, Transcranial Magnetic Stimulation
+- Language impairements in multilingual individuals, Aphasia, Transcranial Magnetic Stimulation
 
 # education:
 #  courses:
