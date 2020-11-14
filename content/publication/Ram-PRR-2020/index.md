@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Extrapolating continuous color emotions through deep learning."
-authors: [Ram, R, Schaposnik, L.P., Konstantinou N, Volkan, E., Papadatou-Pastou, M., Manav, B., Jonauskaite, D., Mohr, C]
-date: 2020-09-02T17:50:20+03:00
-doi: "10.1103/PhysRevResearch.2.033350"
+title: "Effects of visual short-term memory load and attentional demand on the contrast response function."
+authors: [Konstantinou N, Lavie, N.]
+date: 2020-10-02T17:50:20+03:00
+doi: " https://doi.org/10.1167/jov.20.10.6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-02T17:50:20+03:00
@@ -16,10 +16,10 @@ publishDate: 2020-09-02T17:50:20+03:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physical Review Research"
+publication: "Journal of Vision"
 publication_short: ""
 
-abstract: "By means of an experimental dataset, we use deep learning to implement an RGB (red, green, and blue) extrapolation of emotions associated to color, and do a mathematical study of the results obtained through this neural network. In particular, we see that males (type-m individuals) typically associate a given emotion with darker colors, while females (type- f individuals) associate it with brighter colors. A similar trend was observed with older people and associations to lighter colors. Moreover, through our classification matrix, we identify which colors have weak associations to emotions and which colors are typically confused with other colors."
+abstract: "Visual short-term memory (VSTM) load leads to impaired perception during maintenance. Here, we fitted the contrast response function to psychometric orientation discrimination data while also varying attention demand during maintenance to investigate: (1) whether VSTM load effects on perception are mediated by a modulation of the contrast threshold, consistent with contrast gain accounts, or by the function asymptote (1 lapse rate), consistent with response gain accounts; and (2) whether the VSTM load effects on the contrast response function depend on the availability of attentional resources. We manipulated VSTM load via the number of items in the memory set in a color and location VSTM task and assessed the contrast response function for an orientation discrimination task during maintenance. Attention demand was varied through spatial cuing of the orientation stimulus. Higher VSTM load increased the estimated contrast threshold of the contrast response function without affecting the estimated asymptote, but only when the discrimination task demanded attention. When attentional demand was reduced (in the cued conditions), the VSTM load effects on the contrast threshold were eliminated. The results suggest that VSTM load reduces perceptual sensitivity by increasing contrast thresholds, suggestive of a contrast gain modulation mechanism, as long as the perceptual discrimination task demands attention. These findings support recent claims that attentional resources are shared between perception and VSTM maintenance processes."
 
 # Summary. An optional shortened abstract.
 summary: ""
