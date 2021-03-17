@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Whole brain and corpus callosum diffusion tensor metrics: How do they correlate with visual and verbal memory performance in chronic traumatic brain injury."
-authors: [Yiannakkaras C, Konstantinou N, Constantinidou F, Pettemeridou E, Eracleous E, Papacostas SS, Seimenis I]
-date: 2019-06-30T17:50:20+03:00
+title: "Effects of visual short-term memory load and attentional demand on the contrast response function."
+authors: [Konstantinou N, Lavie N]
+date: 2020-10-02T17:50:20+03:00
 doi: "10.31083/j.jin.2019.02.14"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-12T17:50:20+03:00
+publishDate: 2020-10-02T17:50:20+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2019-08-12T17:50:20+03:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Integrative Neuroscience "
+publication: "Journal of Vision "
 publication_short: ""
 
-abstract: "This research investigates the chronic effect of moderate to severe traumatic brain injury on brain white matter integrity, as reflected by diffusion tensor imaging metrics, and the assessment of their correlation to neuropsychological response. Thirteen male participants with traumatic brain injury (8.4 years average post-injury time) were compared to a matched group of neurologically healthy controls. None of the traumatic brain injury subjects had received post-acute neurocognitive and/or neuropsychological rehabilitation. Between-group comparison of fractional anisotropy, mean diffusivity, axial diffusivity, and radial diffusivity was performed for the whole brain and corpus callosum. An extensive battery of visual and verbal memory tasks was employed for the comparative assessment of neurocognitive performance. Between-group and within-group performance differences were correlated with fractional anisotropy, mean diffusivity, axial diffusivity, and radial diffusivity of corpus callosum. Significant changes in global fractional anisotropy, mean diffusivity, and radial diffusivity were associated with traumatic brain injury. Visual memory capacity was reduced in traumatic brain injury, and this deficit was correlated to white matter integrity loss at the corpus callosum. Participants with traumatic brain injury underperformed controls in verbal memory as well, but no correlation with corpus callosum diffusion tensor imaging properties was established. Between-group performance difference was correlated with corpus callosum diffusion metrics in several tasks. Significant correlations were found between corpus callosum diffusion tensor imaging metrics and neuropsychological response within the traumatic brain injury group. Changes in whole brain and corpus callosum diffusion tensor metrics inflicted by moderate to severe traumatic brain injury are still evident several years post-injury and relate to neurocognitive impairment, while loss of white matter integrity seems to correlate with episodic and working memory impairment."
+abstract: "Visual short-term memory (VSTM) load leads to impaired perception during maintenance. Here, we fitted the contrast response function to psychometric orientation discrimination data while also varying attention demand during maintenance to investigate: (1) whether VSTM load effects on perception are mediated by a modulation of the contrast threshold, consistent with contrast gain accounts, or by the function asymptote (1 lapse rate), consistent with response gain accounts; and (2) whether the VSTM load effects on the contrast response function depend on the availability of attentional resources. We manipulated VSTM load via the number of items in the memory set in a color and location VSTM task and assessed the contrast response function for an orientation discrimination task during maintenance. Attention demand was varied through spatial cuing of the orientation stimulus. Higher VSTM load increased the estimated contrast threshold of the contrast response function without affecting the estimated asymptote, but only when the discrimination task demanded attention. When attentional demand was reduced (in the cued conditions), the VSTM load effects on the contrast threshold were eliminated. The results suggest that VSTM load reduces perceptual sensitivity by increasing contrast thresholds, suggestive of a contrast gain modulation mechanism, as long as the perceptual discrimination task demands attention. These findings support recent claims that attentional resources are shared between perception and VSTM maintenance processes."
 
 # Summary. An optional shortened abstract.
 summary: ""
