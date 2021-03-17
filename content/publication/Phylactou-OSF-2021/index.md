@@ -4,7 +4,7 @@
 title: "Sensory Recruitment in Visual Short-Term Memory: A Systematic Review and Meta-Analysis of Sensory Visual Cortex Interference Using Transcranial Magnetic Stimulation."
 authors: [Phylactou P, Traikapi A, Papadatou-Pastou M., Konstantinou N]
 date: 2021-03-08T17:50:20+03:00
-doi: "10.31083/j.jin.2019.02.14"
+doi: "10.31219/osf.io/9qwg8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-08T17:50:20+03:00
