@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor of Speech Pathology
+role: Professor of Speech Pathology
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "She is currently an Associate Professor of Speech Pathology at the Cyprus University of Technology"
+bio: "She is currently Professor of Speech Pathology at the Cyprus University of Technology"
 
 interests:
 - Language impairements in multilingual individuals, Aphasia, Transcranial Magnetic Stimulation
@@ -67,14 +67,14 @@ user_groups:
 - Collaborators
 
 ---
-Dr. Kambanaros is a certified bilingual English–Greek Speech Pathologist with over 25 years of clinical experience and academic appointments in Greece and Cyprus. She received her bachelor degree in speech pathology and later on her PhD qualification from Flinders University of South Australia (Australia), School of Medicine, Department of Speech Pathology and Audiology. 
+Prof. Kambanaros is a certified bilingual English–Greek Speech Pathologist with over 25 years of clinical experience and academic appointments in Greece and Cyprus. She received her bachelor degree in speech pathology and later on her PhD qualification from Flinders University of South Australia (Australia), School of Medicine, Department of Speech Pathology and Audiology. 
 
 She is an honorary member of the Association of Speech Pathologists and Speech Therapists, Scientists of Greece. She is also a member of the International Association of Logopedics & Phoniatrics (IALP), Speech Pathology Australia (SPA), the Royal College of Speech and Language Therapists (RCSLT), the Registered Association of Speech & Language Pathologists of Cyprus, and an associate member of the Academy of Aphasia. She is a member of the IALP Multilingual Affairs Committee. 
 
-Dr. Kambanaros is the author of a highly successful book on diagnostic issues in speech therapy (Διαγνωστικά Θέματα Λογοθεραπείας Athens: ELLIN Publishing Co.) which has been adopted as the standard university textbook in Speech and Language Therapy programs in Greece and Cyprus, with over 3,000 copies sold to date. 
+Prof. Kambanaros is the author of a highly successful book on diagnostic issues in speech therapy (Διαγνωστικά Θέματα Λογοθεραπείας Athens: ELLIN Publishing Co.) which has been adopted as the standard university textbook in Speech and Language Therapy programs in Greece and Cyprus, with over 3,000 copies sold to date. 
 
 She is highly committed to developing tools and valid diagnostic measures for assessing language impairments in multilingual individuals. Her research interests are related to acquired and developmental language impairments in bi-multilingual speakers, predominantly as related to the lexicon, with an emphasis on assessment and treatment outcomes. Specifically, her work focuses on word retrieval impairments that is, difficulties with accessing words for children with developmental language disorders and adults with acquired language deficits after brain injury or pathology. She is particularly interested in how speakers retrieve verbs (action words) and nouns (concrete objects) on naming tasks and in spontaneous language. Her research so far has shown that verbs appear more difficult to retrieve compared to nouns for most language-impaired individuals with different conditions (e.g., aphasia, schizophrenia, specific language impairment, and more) across some, but not all, language tasks. She also investigates how the meaning of a verb can influence how easily or difficult it is to name. 
 
-Dr. Kambanaros also assumes the role of Clinical Assessor & Therapist for the Cyprus Acquisition Team, a cross-institutional research initiative in Cyprus (http://www.research.biolinguistics.eu/CAT). Here she is involved in all research projects carried out in the team. In addition, she was a Management Committee member of COST Action IS0804 on SLI in bilingual children (http://www.bi-sli.org) and is currently involved in working group 2 of COST Action 0812 on aphasia (http://www.cost.eu/domains_actions/isch/Actions/IS1208). 
+Prof. Kambanaros also assumes the role of Clinical Assessor & Therapist for the Cyprus Acquisition Team, a cross-institutional research initiative in Cyprus (http://www.research.biolinguistics.eu/CAT). Here she is involved in all research projects carried out in the team. In addition, she was a Management Committee member of COST Action IS0804 on SLI in bilingual children (http://www.bi-sli.org) and is currently involved in working group 2 of COST Action 0812 on aphasia (http://www.cost.eu/domains_actions/isch/Actions/IS1208). 
 
-Dr. Kambanaros is active in disseminating her research findings in international peer-reviewed journals with high impact factors (http://kambanaros.biolinguistics.eu).
+Prof. Kambanaros is active in disseminating her research findings in international peer-reviewed journals with high impact factors (http://kambanaros.biolinguistics.eu).
