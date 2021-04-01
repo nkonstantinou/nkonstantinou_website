@@ -9,7 +9,7 @@ image:
   caption: ''
 ---
 
-## **In-principle Acceptance at Journal of Neuropsychology**
+## **In-Principle Acceptance of Registered Report at Journal of Neuropsychology**
 
 New in-principle acceptance of the manuscript "Episodic Memory Effects of Precuneus Gamma Frequency Transcranial Magnetic Stimulation in Alzheimer’s Disease: A Randomized Multiple Baseline Study", submitted as a Registered Report (Stage 1) by our PhD student Mrs. Artemis Traikapi and Nikos Konstantinou at the Journal of Neuropsychology. 
 
